@@ -1,0 +1,1 @@
+// A small circular UI component representing a walk slot in the calendar.

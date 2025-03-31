@@ -1,0 +1,1 @@
+// A modal to add a new walker with a name and color.

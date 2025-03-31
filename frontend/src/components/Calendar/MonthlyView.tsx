@@ -1,0 +1,1 @@
+// Displays the entire month with color-coded dots for each walk time.

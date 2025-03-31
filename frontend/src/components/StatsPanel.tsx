@@ -1,0 +1,1 @@
+// Displays the number of walks each person did.
